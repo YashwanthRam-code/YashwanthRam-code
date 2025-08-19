@@ -47,13 +47,13 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/yashwanth-ram-032b9a291" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="yashwanthram118@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
+  <a href="https://github.com/YashwanthRam-code/YashwanthRam-code" target="_blank">
     <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="50"/>
   </a>
 </p>
